@@ -1,0 +1,48 @@
+@media screen and (max-width:1200px) {
+  div.wrapperImageTitleAndMetadata{
+    align-items: center;
+  }
+  div.wrapperProdudctImgAndDescPlusIngredients{    
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .wrapperProductImage{
+    max-height: 35rem;
+    width: 100%; 
+
+  }
+  .parentWrapperProductImage, .wrapperDescriptionAndIngredients{
+    width: unset;
+  }
+  .wrapperProdudctImgAndDescPlusIngredients{
+    padding: 5rem;
+    padding-top:1rem;
+  }
+
+  .parentWrapperProductImage{
+    margin-bottom:1rem;
+  }
+
+}
+
+
+@media screen and (max-width:733px) {
+  .wrapperProdudctImgAndDescPlusIngredients{
+    padding: 3rem;
+    padding-top:1rem;
+  }
+}
+
+@media screen and (max-width:535px) {
+  .wrapperProdudctImgAndDescPlusIngredients{
+    padding: 1rem;
+    padding-top:1rem;
+  }
+}
+
+@media screen and (max-width:410px) {
+  .wrapperProdudctImgAndDescPlusIngredients{
+    padding: .2rem;
+    padding-top:1rem;
+  }
+}

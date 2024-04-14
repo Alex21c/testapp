@@ -1,0 +1,49 @@
+
+@media screen and (max-width: 610px){
+
+ div.wrapperProductImageAndTitle{
+  flex-direction: column;
+ }
+
+ div.wrapperAllProducts{
+  display: flex;
+  flex-direction: column;
+  gap:4rem;
+ }
+}
+
+
+
+
+@media screen and (max-width: 400px){
+  span.productTitle{
+   font-size: 1.3rem;
+  }
+  div.wrapperProductImageAndTitle>div.titleAndRemoveBtn{
+    align-items: center;
+   }
+   div.wrapperProductImageAndTitle{
+    align-items: center;
+   justify-content: center;
+  }
+  div.wrapperProduct{
+   flex-direction: column;
+   align-items: center;
+   border-bottom:2px solid #fef9c3;
+   padding-bottom: 2rem;
+  }
+  div.productQuantityUpdateController{
+   flex-direction: row-reverse;
+   gap:1.5rem;
+  }
+ div.wrapperTotal{
+  border: none;
+  margin-top:0;
+  padding-top:0;
+ }
+  h2.shoppingCartHeading{
+    font-size: 1.8rem;
+  }
+ }
+ 
+ 

@@ -1,0 +1,29 @@
+
+@media screen and (max-width:1162px){
+  
+  div#productsGrid{
+    grid-template-columns: 1fr 1fr;
+ 
+    
+  }
+}  
+
+
+
+
+@media screen and (max-width:804px){
+  
+  div#productsGrid{
+    grid-template-columns: 1fr;
+    align-items: center;
+    justify-content: center;
+    
+  }
+}
+
+@media screen and (max-width:400px){
+  div.productImg{
+    width:15rem;
+    height:15rem;
+  }
+}

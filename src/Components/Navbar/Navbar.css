@@ -1,0 +1,22 @@
+
+.wrapperCloseIcon{
+  display: none;
+}
+
+@media screen and (max-width:990px) {
+
+  nav#headerNav{
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    padding:3rem;
+    top:0rem;
+    left: 0rem;
+    z-index: 100;
+
+  }
+
+  .wrapperCloseIcon{
+    display: initial;
+  }
+}

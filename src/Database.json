@@ -1,0 +1,276 @@
+{
+  "Categories":  ["NorthIndian", "Chinese", "TandooriBreads", "Rice", "Curds"],
+  "NorthIndian": [
+    {
+      "id": "NI-1",
+      "title": "Chana Bhatura",    
+      "image": "Food/NorthIndian/chanaBhatura.jpg",
+      "price": 250,
+      "description": ["Chana Bhatura is a popular North Indian dish consisting of spicy chickpea curry (Chana Masala) served with deep-fried bread called Bhatura. The chickpea curry is typically made with a blend of aromatic spices like cumin, coriander, garam masala, and turmeric, cooked with onions, tomatoes, and ginger-garlic paste. Bhatura is a soft, fluffy, and deep-fried bread made from refined flour (maida), yogurt, and a leavening agent like baking powder. It's a delicious and satisfying combination that's often served as a hearty breakfast or brunch option in India."]
+    },
+    {
+      "id": "NI-2",
+      "title": "Kadhai Paneer",    
+      "image": "Food/NorthIndian/kadhaiPaneer.jpg",
+      "price" : 260,
+      "description": ["Kadhai Paneer is a popular Indian vegetarian dish made with paneer (Indian cottage cheese) cooked in a spicy tomato-based gravy with bell peppers (capsicum) and onions. The dish gets its name from the utensil in which it is traditionally cooked, called a \"kadhai\" or Indian wok. The gravy is flavored with a blend of aromatic spices like cumin, coriander, garam masala, and dried fenugreek leaves (kasuri methi). It's a flavorful and aromatic dish often served with Indian flatbreads like naan or roti."]
+    },
+    {
+      "id": "NI-3",
+      "title": "Shahi Paneer",    
+      "image": "Food/NorthIndian/ShahiPaneer.jpg",
+      "price" : 260,
+      "description": ["Shahi Paneer is a rich and creamy North Indian dish made with paneer (Indian cottage cheese) cooked in a luxurious gravy made from a base of creamy cashew nut paste, onions, tomatoes, and aromatic spices. The gravy is typically flavored with ingredients like cardamom, cloves, cinnamon, and saffron, giving it a royal and decadent taste. It's often garnished with cream, chopped nuts, and fresh coriander leaves. Shahi Paneer is a popular choice for special occasions and is best enjoyed with naan, roti, or rice."]
+    },
+    {
+      "id": "NI-4",
+      "title": "Aloo Parantha",    
+      "image": "Food/NorthIndian/alooParantha.webp",
+      "price" : 120,
+      "description": ["Aloo Paratha is a popular Indian flatbread made by stuffing a dough with a spicy mixture of mashed potatoes (aloo) and aromatic spices. The dough, typically made from whole wheat flour, water, and a pinch of salt, is rolled out into a circle, stuffed with the potato mixture, sealed, and then rolled out again into a flatbread. The stuffed flatbread is then cooked on a hot griddle with ghee or oil until golden brown and crispy on both sides. Aloo Paratha is often enjoyed with yogurt, pickles, or chutney, and it's a favorite breakfast or brunch option in many parts of India."]
+    },
+    {
+      "id": "NI-5",
+      "title": "Paneer Pakode",    
+      "image": "Food/NorthIndian/paneerPakode.webp",
+      "price" : 270,
+      "description": ["Paneer Pakode are tasty Indian fritters made with paneer (Indian cottage cheese) coated in a spiced gram flour (besan) batter and deep-fried until golden and crispy. The paneer is typically cut into cubes or slices and marinated with a mixture of spices such as turmeric, chili powder, and garam masala before being dipped in the batter. These pakoras are crunchy on the outside and soft on the inside, making them a delightful snack or appetizer. They're often served hot with chutney or sauce for dipping and are a popular choice during rainy days or as a tea-time snack."]
+    },
+    {
+      "id": "NI-6",
+      "title": "Aaloo Gobhi Pakode",    
+      "image": "Food/NorthIndian/aalooGobhiPakode.webp",
+      "price" : 200,
+      "description": ["Aaloo Gobhi Pakode are delicious Indian fritters made with a combination of potatoes (aloo) and cauliflower (gobhi), coated in a spiced gram flour (besan) batter and deep-fried until crispy. The potatoes and cauliflower are usually cut into small florets or slices, mixed with spices like turmeric, chili powder, cumin, and coriander, and then coated with the besan batter before frying. These pakoras are crispy on the outside and soft on the inside, offering a delightful blend of flavors and textures. They are often served as a tasty snack or appetizer, especially during rainy weather or as a side dish with meals."]
+    },
+    {
+      "id": "NI-7",
+      "title": "Mix Veg.",    
+      "image": "Food/NorthIndian/mixVeg.webp",
+      "price" : 160,
+      "description": ["Mix Veg is a flavorful and colorful Indian dish consisting of assorted vegetables cooked together in a rich and aromatic gravy. The vegetables commonly used in Mix Veg can vary but often include carrots, peas, potatoes, cauliflower, bell peppers, and beans. The gravy is typically made with a base of onions, tomatoes, and spices such as cumin, coriander, turmeric, and garam masala. It's a versatile dish that can be customized according to personal preference and is often enjoyed with rice, roti, or naan as a wholesome and nutritious meal."]
+    },
+    {
+      "id": "NI-8",
+      "title": "Chana Masala",    
+      "image": "Food/NorthIndian/chanaMasala.webp",
+      "price" : 170,
+      "description": ["Chana Masala is a classic Indian dish made with chickpeas (chana) cooked in a spicy and flavorful tomato-based gravy. The dish is seasoned with a blend of aromatic spices such as cumin, coriander, turmeric, garam masala, and dried mango powder (amchur), along with onions, garlic, and ginger. It's a popular vegetarian dish known for its rich flavors and hearty texture. Chana Masala is often served with rice, roti, or naan and garnished with fresh coriander leaves or a squeeze of lemon juice for added freshness."]
+    },
+    {
+      "id": "NI-9",
+      "title": "Rajmah Masala",    
+      "image": "Food/NorthIndian/rajmahMasala.webp",
+      "price" : 170,
+      "description": ["Rajma Masala is a popular North Indian dish made with red kidney beans (rajma) cooked in a thick, flavorful gravy. The kidney beans are simmered in a spicy tomato-based sauce along with onions, garlic, ginger, and a blend of aromatic spices such as cumin, coriander, turmeric, garam masala, and chili powder. The dish is known for its rich and hearty flavor and is often enjoyed with rice or Indian breads like roti or naan. It's a comforting and satisfying meal that's enjoyed by many across India and beyond."]
+    },
+    {
+      "id": "NI-10",
+      "title": "Mushroom Masala",    
+      "image": "Food/NorthIndian/mushroomMasala.webp",
+      "price" : 240,
+      "description": ["Mushroom Masala is a delicious Indian dish featuring mushrooms cooked in a flavorful gravy. The mushrooms are typically sliced and sautéed with onions, garlic, and ginger, then simmered in a tomato-based sauce infused with aromatic spices such as cumin, coriander, turmeric, garam masala, and chili powder. The dish may also include ingredients like bell peppers, peas, or cream to enhance its taste and texture. Mushroom Masala is a vegetarian favorite, appreciated for its rich, savory flavor and versatility. It pairs well with rice, roti, or naan for a satisfying meal."]
+    },
+    {
+      "id": "NI-11",
+      "title": "Paneer Bhurji",    
+      "image": "Food/NorthIndian/paneerBhurji.webp",
+      "price" : 260,
+      "description": ["Paneer Bhurji is a flavorful Indian dish made by scrambling paneer (Indian cottage cheese) with onions, tomatoes, and spices. The paneer is crumbled and cooked with a mixture of finely chopped onions, tomatoes, green chilies, and a blend of spices such as turmeric, cumin, coriander, and garam masala. Sometimes, additional ingredients like peas or bell peppers may be added for extra flavor and texture. Paneer Bhurji is a quick and easy dish to prepare, often enjoyed as a breakfast or a side dish with bread or roti. It's known for its soft and creamy texture, combined with the bold flavors of the spices."]
+    },
+    {
+      "id": "NI-12",
+      "title": "Palak Paneer",    
+      "image": "Food/NorthIndian/palakPaneer.webp",
+      "price" : 290,
+      "description": ["Palak Paneer is a popular North Indian dish featuring paneer (Indian cottage cheese) cooked in a creamy spinach (palak) gravy. The spinach is blanched and pureed, then simmered with a mixture of onions, tomatoes, garlic, ginger, and aromatic spices such as cumin, coriander, garam masala, and turmeric. Cubes of paneer are added to the spinach gravy and gently cooked until tender. Palak Paneer is known for its vibrant green color, creamy texture, and rich flavor. It's often enjoyed with rice or Indian breads like roti or naan for a nutritious and satisfying meal."]
+    },
+    {
+      "id": "NI-13",
+      "title": "Samose",    
+      "image": "Food/NorthIndian/samose.jpg",
+      "price" : 100,
+      "description": ["Samosas are a popular Indian snack consisting of crispy, deep-fried pastry filled with a savory mixture typically containing spiced potatoes, peas, and sometimes other ingredients like onions, lentils, or minced meat. The filling is seasoned with a blend of aromatic spices such as cumin, coriander, garam masala, and chili powder. Samosas are enjoyed as a delicious street food or appetizer and are often served with chutneys or sauces for dipping. They are known for their triangular shape and crispy texture, making them a favorite snack across South Asia and beyond."]      
+
+    },    
+    {
+      "id": "NI-14",
+      "title": "Onion Parantha",    
+      "image": "Food/NorthIndian/onionParantha.webp",
+      "price" : 150,
+      "description": ["Onion Paratha is a type of Indian flatbread where the dough is stuffed with a mixture of finely chopped onions and spices. To make Onion Paratha, the dough is typically made from whole wheat flour, water, and salt, then rolled out into a circle. A mixture of finely chopped onions, green chilies, coriander leaves, and spices such as cumin, coriander powder, and garam masala is spread evenly over one half of the dough circle. The other half is then folded over to encase the onion mixture, and the stuffed dough is rolled out again into a flatbread. It's then cooked on a hot griddle with ghee or oil until golden brown and crispy. Onion Paratha is often served with yogurt, pickles, or chutney and is enjoyed as a delicious and flavorful meal or snack."]
+    }    
+  ],
+  "Chinese": [
+    {
+      "id": "C-1",
+      "title": "Veg Manchurian",    
+      "image": "Food/Chinese/vegManchurian.webp",
+      "price" : 200,
+      "description": ["Veg Manchurian is a popular Indo-Chinese dish made with vegetable dumplings served in a tangy and savory sauce. The dumplings are typically made from a mixture of finely chopped vegetables such as cabbage, carrots, bell peppers, and onions, bound together with flour and seasoned with spices like ginger, garlic, soy sauce, and green chilies. These vegetable balls are deep-fried until golden and crispy. The sauce is made by stir-frying garlic, ginger, onions, and bell peppers, then adding a mixture of soy sauce, chili sauce, vinegar, and other seasonings to create a flavorful base. The fried vegetable dumplings are then added to the sauce, allowing them to soak up the flavors. Veg Manchurian is often served as an appetizer or as a main dish accompanied by fried rice or noodles. It's loved for its combination of crunchy texture and umami-rich sauce, making it a favorite in many Indian and Chinese restaurants."]
+    },
+    {
+      "id": "C-2",
+      "title": "Veg Noodles",    
+      "image": "Food/Chinese/vegNoodes.webp",
+      "price" : 150,
+      "description": ["Veg Noodles is a popular Indo-Chinese dish consisting of stir-fried noodles tossed with a variety of vegetables and seasonings. The dish typically starts with boiled noodles, which are then stir-fried in a wok or skillet along with a colorful mix of vegetables such as bell peppers, carrots, cabbage, onions, and sometimes mushrooms or bean sprouts. The vegetables are quickly cooked to retain their crispness. The noodles are flavored with a combination of soy sauce, vinegar, chili sauce, garlic, and ginger, creating a savory and aromatic taste. Veg Noodles are versatile and can be customized with different vegetables and spice levels according to personal preference. They are often served as a standalone dish or as a side with other Indo-Chinese favorites like Manchurian or fried rice."]
+    },
+    {
+      "id": "C-3",
+      "title": "Veg Fried Rice",    
+      "image": "Food/Chinese/vegFriedRice.webp",
+      "price" : 170,
+      "description": ["Veg Fried Rice is a popular Indo-Chinese dish made by stir-frying cooked rice with a colorful assortment of vegetables and seasonings. The dish typically starts with cooked rice that is allowed to cool to prevent it from sticking together. In a wok or skillet, a mix of finely chopped vegetables such as carrots, bell peppers, cabbage, onions, peas, and sometimes corn or mushrooms, is stir-fried until tender yet crisp. The rice is then added to the wok along with soy sauce, vinegar, garlic, ginger, and other seasonings. Everything is tossed together over high heat until the flavors are well combined and the rice is heated through. Veg Fried Rice is a versatile dish that can be enjoyed on its own or as a side with other Indo-Chinese dishes like Manchurian or noodles. It's loved for its vibrant colors, fragrant aroma, and satisfying taste."]
+    },
+    {
+      "id": "C-4",
+      "title": "Veg Momos",    
+      "image": "Food/Chinese/vegMomos.webp",
+      "price" : 170,
+      "description": ["Veg Momos are a popular Tibetan and Nepalese dish consisting of steamed dumplings filled with a flavorful mixture of vegetables. The dumpling wrappers are typically made from a simple dough of flour and water, rolled out into circles, and filled with a savory mixture of finely chopped vegetables such as cabbage, carrots, bell peppers, onions, and sometimes mushrooms or tofu. The filling is seasoned with garlic, ginger, soy sauce, and other spices, giving it a delicious and aromatic flavor. The dumplings are then sealed into various shapes, such as crescents or purses, and steamed until cooked through. Veg Momos are often served with a spicy dipping sauce made from chili paste, soy sauce, vinegar, and garlic, adding an extra kick of flavor. They are loved for their soft and chewy texture, as well as their delightful combination of flavors. Veg Momos are enjoyed as a popular street food snack or appetizer in many parts of Asia."]
+    }
+   
+   
+    
+  ],
+  "TandooriBreads": [
+    {
+      "id": "TB-1",
+      "title": "Plain Naan",    
+      "image": "Food/TandooriBreads/plainNaan.webp",
+      "price" : 30,
+      "description": ["Plain Naan is a classic Indian flatbread made from refined flour, yeast, water, salt, and sometimes yogurt or milk. The dough is kneaded until smooth and then allowed to rise for a period of time to develop flavor and texture. After rising, the dough is divided into small portions, rolled out into oval or round shapes, and then cooked in a tandoor oven, giving it its signature charred and slightly crispy exterior while remaining soft and fluffy inside. Plain Naan is versatile and can be enjoyed on its own, paired with a variety of curries, or used to scoop up sauces and chutneys. It's a staple in Indian cuisine and is loved for its delicious taste and texture."]
+    },
+    {
+      "id": "TB-2",
+      "title": "Butter Naan",    
+      "image": "Food/TandooriBreads/butterNaan.webp",
+      "price" : 40,
+      "description": [
+        "Butter Naan is a variation of the classic Indian flatbread, Naan, that is brushed with melted butter before or after being cooked. Similar to Plain Naan, Butter Naan is made from refined flour, yeast, water, salt, and sometimes yogurt or milk. The dough is prepared, allowed to rise, and then rolled out into oval or round shapes. It's traditionally cooked in a tandoor oven, resulting in a soft and fluffy texture with a slightly crispy exterior.",
+        "Before serving, Butter Naan is typically brushed with melted butter or ghee, adding richness and flavor to the bread. The butter enhances the taste and aroma of the naan, making it even more delicious. Butter Naan is often served as an accompaniment to various Indian dishes such as curries, kebabs, and grilled meats, or it can be enjoyed on its own as a tasty snack or side dish."
+      ]
+    },
+    {
+      "id": "TB-3",
+      "title": "Laccha Parantha",    
+      "image": "Food/TandooriBreads/lacchaParantha.webp",
+      "price" : 30,
+      "description": [
+        "Roti is a simple and versatile Indian flatbread made from whole wheat flour, water, and salt. The dough is kneaded until smooth and then divided into small portions, which are rolled out into round, thin circles. These circles of dough are then cooked on a hot griddle or tawa until they puff up and develop brown spots on both sides. Roti is typically cooked without any oil or ghee, making it a healthier option compared to some other Indian breads.",
+        "Roti is a staple food in many parts of India and is enjoyed with a wide variety of dishes, including curries, lentils, vegetables, and meats. It can be used to scoop up food or eaten on its own. Roti is known for its soft and chewy texture and is a fundamental component of many Indian meals, providing a nutritious and satisfying accompaniment to a variety of dishes."
+      ]
+    },
+    {
+      "id": "TB-4",
+      "title": "Roti",    
+      "image": "Food/TandooriBreads/roti.webp",
+      "price" : 12,
+      "description": [
+        "Roti is a simple and versatile Indian flatbread made from whole wheat flour, water, and salt. The dough is kneaded until smooth and then divided into small portions, which are rolled out into round, thin circles. These circles of dough are then cooked on a hot griddle or tawa until they puff up and develop brown spots on both sides. Roti is typically cooked without any oil or ghee, making it a healthier option compared to some other Indian breads.",
+        "Roti is a staple food in many parts of India and is enjoyed with a wide variety of dishes, including curries, lentils, vegetables, and meats. It can be used to scoop up food or eaten on its own. Roti is known for its soft and chewy texture and is a fundamental component of many Indian meals, providing a nutritious and satisfying accompaniment to a variety of dishes."
+      ]
+    },
+    {
+      "id": "TB-5",
+      "title": "Butter Roti",    
+      "image": "Food/TandooriBreads/butterRoti.webp",
+      "price" : 15,
+      "description": [
+        "Butter Roti is a variation of the classic Indian flatbread Roti, where the cooked roti is brushed with melted butter or ghee before serving. The preparation of Butter Roti is similar to that of regular Roti, made from whole wheat flour, water, and salt. The dough is kneaded, rolled out into thin circles, and cooked on a hot griddle or tawa until it puffs up and develops brown spots on both sides.",
+         "After cooking, Butter Roti is taken off the griddle, and while still hot, a generous amount of melted butter or ghee is brushed on top. This adds a rich and indulgent flavor to the roti, enhancing its taste and aroma. Butter Roti is often served as a delicious accompaniment to various Indian dishes, providing a buttery and savory contrast to the flavors of the meal."
+        ]
+    },
+    {
+      "id": "TB-6",
+      "title": "Garlic Naan",    
+      "image": "Food/TandooriBreads/garlicNaan.webp",
+      "price" : 15,
+      "description": [
+        "Garlic Naan is a popular variation of the classic Indian flatbread Naan, flavored with minced garlic and sometimes fresh cilantro. Similar to Plain Naan, the dough for Garlic Naan is made from refined flour, yeast, water, salt, and sometimes yogurt or milk. The dough is kneaded until smooth, allowed to rise, and then rolled out into oval or round shapes.",
+        "Before cooking, minced garlic and chopped cilantro are often sprinkled onto the rolled-out dough, adding a fragrant and savory flavor. The garlic and cilantro become embedded in the layers of the naan as it cooks, infusing the bread with their aroma.",
+        "Garlic Naan is traditionally cooked in a tandoor oven, resulting in a soft and fluffy texture with a slight crispiness on the outside. It is often served hot and brushed with butter or ghee for extra flavor. Garlic Naan pairs well with a variety of Indian dishes, particularly those with rich gravies or spicy curries, and it is loved for its delicious taste and aromatic garlic flavor."
+      ]
+    }
+  ],
+  "Rice": [
+    {
+      "id": "R-1",
+      "title": "Plain Rice",    
+      "image": "Food/Rice/plainRice.webp",
+      "price" : 100,
+      "description": [
+        "Plain rice, also known as steamed rice or white rice, is a fundamental staple food consumed worldwide. It's made by cooking rice grains in water until they become tender and fluffy. The preparation involves rinsing the rice to remove excess starch, adding it to boiling water, simmering until cooked, and then fluffing with a fork to separate the grains.",
+        "Plain rice serves as a versatile accompaniment to a wide array of dishes, such as curries, stir-fries, stews, grilled meats, and vegetables. Its neutral flavor and soft texture make it an excellent complement to various cuisines, allowing the flavors of accompanying dishes to stand out. Additionally, plain rice can be a component of more complex dishes like rice pilaf, biryani, or sushi.",
+        "Nutritionally, plain rice is a significant source of carbohydrates and provides energy for the body. It's naturally gluten-free and low in fat, making it suitable for various dietary preferences and restrictions. Overall, plain rice is a simple yet essential component of many meals worldwide, appreciated for its versatility, accessibility, and comforting qualities."]
+    },    
+    {
+      "id": "R-2",
+      "title": "Jeera Rice",    
+      "image": "Food/Rice/jeeraRice.webp",
+      "price" : 120,
+      "description": [
+        "Jeera rice is a fragrant and flavorful Indian dish made by cooking rice with cumin seeds (jeera) and other aromatic spices. To prepare Jeera rice, long-grain basmati rice is washed and soaked for a short period, then drained. In a separate pot, ghee or oil is heated, and whole cumin seeds are added, allowing them to sizzle and release their aroma. Other whole spices such as cloves, cinnamon, and bay leaves may also be added at this stage for additional flavor.",
+        "The soaked rice is then added to the pot and lightly toasted with the cumin seeds and spices, allowing the rice grains to absorb the flavors. Water is added in the appropriate ratio, and the rice is cooked until tender. Finally, the cooked Jeera rice is fluffed with a fork to separate the grains and served hot.",
+        "Jeera rice is a popular accompaniment to various Indian dishes such as dal, curries, kebabs, and vegetables. Its fragrant aroma and subtle flavor from the cumin seeds make it a delightful addition to any meal, adding depth and complexity to the overall dining experience."]
+    },    
+    {
+      "id": "R-3",
+      "title": "Veg Biryani",    
+      "image": "Food/Rice/vegBiryaani.webp",
+      "price" : 210,
+      "description": [
+        "Veg Biryani is a fragrant and flavorful Indian rice dish made with a combination of mixed vegetables, long-grain basmati rice, and a blend of aromatic spices. To prepare Veg Biryani, the basmati rice is first soaked and parboiled until it's partially cooked. Meanwhile, a mixture of assorted vegetables such as carrots, peas, potatoes, cauliflower, and bell peppers is lightly sautéed with onions, tomatoes, garlic, ginger, and spices like cumin, coriander, turmeric, garam masala, and biryani masala.",
+        "Layers of partially cooked rice and the vegetable mixture are alternated in a deep cooking pot, known as a handi or biryani pot. Each layer is topped with fried onions, chopped mint and cilantro, saffron-infused milk, and sometimes a dollop of ghee for added richness. The pot is then sealed with a tight-fitting lid and cooked on low heat, allowing the flavors to meld together and the rice to absorb the aromatic steam.",
+        "Once cooked, Veg Biryani is gently fluffed with a fork to mix the layers and reveal the colorful and fragrant rice and vegetable mixture. It's often garnished with additional fried onions, chopped herbs, and nuts before serving. Veg Biryani is a beloved dish enjoyed on special occasions, festivals, and gatherings, cherished for its complex flavors, vibrant colors, and festive presentation."]
+    },    
+    {
+      "id": "R-4",
+      "title": "Veg Pulao",    
+      "image": "Food/Rice/vegPulao.webp",
+      "price" : 160,
+      "description": [
+        "Veg Pulao is a flavorful and aromatic Indian rice dish made with basmati rice, mixed vegetables, and a blend of spices. To prepare Veg Pulao, long-grain basmati rice is washed and soaked for a short period, then drained. Meanwhile, a mixture of assorted vegetables such as carrots, peas, beans, potatoes, cauliflower, and bell peppers is sautéed with onions, tomatoes, garlic, ginger, and spices like cumin, coriander, turmeric, and garam masala.",
+
+        "The soaked rice is then added to the pot with the sautéed vegetables, along with water or vegetable broth in the appropriate ratio. Everything is brought to a boil, then simmered until the rice is cooked and the vegetables are tender. Optionally, fried onions, chopped mint, and cilantro may be added for additional flavor and garnish.",
+        
+        "Veg Pulao is known for its simplicity, yet it's packed with fragrant and savory flavors. It's a versatile dish that can be enjoyed on its own as a main course or paired with yogurt, raita, or chutney. Veg Pulao is a popular choice for both everyday meals and special occasions, appreciated for its delicious taste, colorful presentation, and comforting aroma."]
+    } 
+  ],
+  "Curds":[
+    {
+      "id": "CU-1",
+      "title": "Plain Curd",    
+      "image": "Food/Curds/plainCurd.webp",
+      "price" : 80,
+      "description": ["Plain curd, also known as yogurt or dahi, is a dairy product made by fermenting milk with live bacterial cultures. To make plain curd, milk is heated to a certain temperature to kill any harmful bacteria, then cooled to a temperature suitable for the growth of beneficial bacteria. A small amount of existing curd or a starter culture containing live bacteria is added to the milk, which initiates the fermentation process.",
+      
+      "During fermentation, the bacteria consume the lactose in the milk and produce lactic acid, which thickens the milk and gives it a tangy flavor. The result is a creamy and mildly sour dairy product with a smooth texture.",
+      
+      "Plain curd is a versatile ingredient used in various cuisines around the world. It can be enjoyed on its own as a refreshing snack or dessert, or used as an ingredient in savory dishes, dressings, marinades, and dips. Curd is also commonly used as a topping or accompaniment to spicy dishes in Indian cuisine to balance flavors and provide a cooling effect. Additionally, plain curd is valued for its probiotic properties, which are believed to promote gut health and digestion."]
+    }, 
+    {
+      "id": "CU-2",
+      "title": "Boondi Raita",    
+      "image": "Food/Curds/boondiRaita.webp",
+      "price" : 100,
+      "description": ["Boondi Raita is a popular Indian side dish made with yogurt (curd) and boondi, which are small, deep-fried chickpea flour balls. To prepare Boondi Raita, plain yogurt is whipped until smooth and creamy. Then, salt, roasted cumin powder, chaat masala, and sometimes black salt are added to the yogurt to enhance its flavor.",
+      
+      "Next, the crispy boondi is soaked in water briefly to remove excess oil and to soften slightly. The soaked boondi is then squeezed gently to remove excess water before being added to the seasoned yogurt. The boondi adds a crunchy texture to the creamy yogurt, creating a delightful contrast.",
+      
+      "Boondi Raita is often garnished with chopped cilantro (coriander) leaves and sometimes a sprinkle of red chili powder or paprika for color and added flavor. It is served chilled as a refreshing accompaniment to spicy Indian dishes like biryani, pulao, or kebabs. The cool and tangy flavor of the raita helps balance the heat and richness of the main dish, making it a popular choice in Indian cuisine."]
+    }, 
+    {
+      "id": "CU-3",
+      "title": "Mix Raita",    
+      "image": "Food/Curds/mixRaita.webp",
+      "price" : 120,
+      "description": ["Mix raita is a versatile Indian side dish made with yogurt (curd) as the base and a combination of various chopped or grated vegetables, fruits, herbs, and spices. To prepare mix raita, plain yogurt is whipped until smooth, then mixed with finely chopped or grated vegetables such as cucumber, tomato, onion, carrot, or bell pepper. Additionally, fruits like pineapple or pomegranate seeds can also be added for sweetness and texture.",
+      
+      "To enhance the flavor, various spices and herbs are added, such as roasted cumin powder, chaat masala, black salt, mint leaves, and cilantro (coriander) leaves. The raita is then chilled before serving to allow the flavors to meld together.",
+      
+      "Mix raita is a refreshing and cooling accompaniment to spicy Indian dishes like biryani, pulao, kebabs, or curries. It adds a burst of flavor, texture, and freshness to the meal, while also providing a cooling contrast to the heat of the main dish."]
+    }
+  ]
+}
