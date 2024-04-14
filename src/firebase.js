@@ -4,7 +4,7 @@ import {getAuth, onAuthStateChanged} from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 // import { getAnalytics } from "firebase/analytics";
 
-const REACT_APP_FIREBASE_API_KEY = process.env.REACT_APP_FIREBASE_API_KEY;
+const REACT_APP_FIREBASE_API = process.env.REACT_APP_FIREBASE_API;
 const REACT_APP_FIREBASE_API_ID = process.env.REACT_APP_FIREBASE_API_ID;
 
 
@@ -15,7 +15,7 @@ const REACT_APP_FIREBASE_API_ID = process.env.REACT_APP_FIREBASE_API_ID;
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: REACT_APP_FIREBASE_API_KEY,
+  apiKey: REACT_APP_FIREBASE_API,
   authDomain: "mct5react-food-delivery-webapp.firebaseapp.com",
   projectId: "mct5react-food-delivery-webapp",
   storageBucket: "mct5react-food-delivery-webapp.appspot.com",
